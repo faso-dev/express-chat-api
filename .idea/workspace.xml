@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615106ee-9005-466e-baea-ede5857cba6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Routes/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.local" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +46,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.webpack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -71,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581114526892</updated>
       <workItem from="1581114539373" duration="1703000" />
-      <workItem from="1581185509939" duration="5249000" />
+      <workItem from="1581185509939" duration="5450000" />
     </task>
     <servers />
   </component>
