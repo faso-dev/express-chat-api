@@ -10,5 +10,5 @@ router.get('/:id', messageController.get);
 router.post('/', messageController.post);
 router.put('/:id', messageController.put);
 router.delete('/:id', messageController.remove);
-
+//export the router
 module.exports = router;
